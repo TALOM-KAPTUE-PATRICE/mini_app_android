@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="true">MyFirstAppGl2b</string>
+    <string name="username" translatable="true">UserName</string>
+    <string name="password" translatable="true">PassWord</string>
+    <string name="login" translatable="true">LOG IN</string>
+    <string name="choix">CHOOSE PLANETE</string>
+
+
+
+</resources>

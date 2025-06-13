@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">G_PROJETS</string>
+    <string name="username" translatable="false">nom d\'utilisateur</string>
+    <string name="password" translatable="false">mot de passe</string>
+    <string name="login" translatable="false">se connecter</string>
+    <string name="choix">CHOOSE PLANETE</string>
+    <string name="description">Description</string>
+    <string name="intitule">Intitule</string>
+    <string name="acronyme">Acronyme</string>
+    <string name="credit">Credit</string>
+    <string name="enregistrer">Enregistrer</string>
+
+    <string name="createM">Creer module</string>
+    <string name="ModifierM">Modifier Module</string>
+    <string name="supprimerM">Sipprimer Module</string>
+    <string name="rechercherM">Rechercher Module</string>
+    <string name="ListeM">liste Module</string>
+
+
+
+</resources>

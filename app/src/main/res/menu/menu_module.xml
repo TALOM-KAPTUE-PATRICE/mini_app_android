@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/createM" android:id="@+id/createModule" ></item>
+    <item android:title="@string/ModifierM" android:id="@+id/modifierM"></item>
+    <item android:title="@string/supprimerM" android:id="@+id/supprimerM"></item>
+    <item android:title="@string/rechercherM" android:id="@+id/reccherM"></item>
+    <item android:title="@string/ListeM" android:id="@+id/listeM"></item>
+</menu>
